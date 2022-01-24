@@ -20,7 +20,7 @@ a|
 
 a|  
 
-* link:../../../../../aberbel/3-publicaciones/blob/master/USantaTecla/1-fundamentos/0-itinerario/index.html[0-itinerario]
+* link:../../../../../aberbel/3-publicaciones/tree/master/USantaTecla/1-fundamentos/0-itinerario/index.html[0-itinerario]
 
 * link:../../../../../USantaTecla-1-fundamentos/1-patrones/build/docs/asciidoc/index.html[1-patrones]
 
